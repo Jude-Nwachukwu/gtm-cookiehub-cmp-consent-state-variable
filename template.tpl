@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "CookieHub CMP Consent State",
+  "displayName": "DD CookieHub CMP Consent State (Unofficial)",
   "description": "Use with the CookieHub CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
@@ -278,6 +278,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/9/2025, 12:34:49 PM
+Created on 5/20/2025, 10:06:17 AM
 
 

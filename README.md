@@ -41,7 +41,7 @@ Choose whether to:
 
 * **Necessary**
 * **Preferences**
-* **Advertising** (maps to CookieHub's `analytics` category)
+* **Analytics**
 * **Marketing**
 
 ---

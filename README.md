@@ -1,4 +1,4 @@
-# CookieHub CMP Consent State – GTM Variable Template
+# CookieHub CMP Consent State – GTM Variable Template (Unofficial)
 
 A Google Tag Manager custom **variable template** for retrieving a user's consent state directly from the [CookieHub CMP](https://www.cookiehub.com/).
 

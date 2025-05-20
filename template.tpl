@@ -82,7 +82,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "GROUP",
     "name": "cookieHubOptionalConfig",
-    "displayName": "CookieFirst Consent State Value Transformation",
+    "displayName": "CookieHub Consent State Value Transformation",
     "groupStyle": "ZIPPY_CLOSED",
     "subParams": [
       {
@@ -278,6 +278,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/20/2025, 10:06:17 AM
+Created on 5/20/2025, 4:34:22 PM
 
 

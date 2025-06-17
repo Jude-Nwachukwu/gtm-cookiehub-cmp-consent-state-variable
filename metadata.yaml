@@ -3,10 +3,12 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-consentmanagernet-consent-variable
 versions:
 # LATEST VERSION
-  - sha: 6ead005146442da78fca73f6363b7501cabc4b8d
-    changeNotes: Change the mention of "CookieFirst" in the template UI to CookieHub.
+  - sha: 5a98c18c108c649fdb1c92e076affb33541bf7d0
+    changeNotes: policy update.
 
 #OLDER VERSION
+  - sha: 6ead005146442da78fca73f6363b7501cabc4b8d
+    changeNotes: Change the mention of "CookieFirst" in the template UI to CookieHub.
   - sha: 2f9a4b195c4283a22ed4c9b44caf1d3cfed109c3
     changeNotes: Updated the variable custom template name.
     
